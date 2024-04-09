@@ -80,4 +80,4 @@ if result is not None:
     print("Joint positions:", joint_positions)
     print("Optimal joint angles (in radians):", joint_angles)
 else:
-    print("Target unreachable")
+    print("unreachable")
